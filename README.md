@@ -69,8 +69,8 @@ The notebook uses Kaggle input paths such as:
 
 ```
 
-/kaggle/input/climate-change-earth-surface-temperature-data/GlobalLandTemperaturesByCity.csv
-/kaggle/input/predict-droughts-using-weather-soil-data/
+https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
+https://www.kaggle.com/datasets/cdminix/us-drought-meteorological-data
 
 ````
 
